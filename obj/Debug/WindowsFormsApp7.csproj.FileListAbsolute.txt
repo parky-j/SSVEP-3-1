@@ -1,0 +1,470 @@
+C:\Users\user\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\user\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\user\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\user\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\user\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\user\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\user\Downloads\WindowsFormsApp7 (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\user\Downloads\WindowsFormsApp7 (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\user\Downloads\WindowsFormsApp7 (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\user\Downloads\WindowsFormsApp7 (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\user\Downloads\WindowsFormsApp7 (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\WindowsFormsApp7 (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\user\Downloads\WindowsFormsApp7 (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\user\Downloads\WindowsFormsApp7 (3)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\user\Downloads\WindowsFormsApp7 (3)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\user\Downloads\WindowsFormsApp7 (3)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\user\Desktop\WindowsFormsApp7 (3)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\user\Desktop\WindowsFormsApp7 (3)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\user\Desktop\WindowsFormsApp7 (3)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\user\Desktop\WindowsFormsApp7 (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\user\Desktop\WindowsFormsApp7 (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\user\Desktop\WindowsFormsApp7 (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\user\Desktop\WindowsFormsApp7 (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WindowsFormsApp7 (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WindowsFormsApp7 (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\user\Desktop\WindowsFormsApp7 (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\user\Desktop\4by4\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\user\Desktop\4by4\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\user\Desktop\4by4\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\user\Desktop\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\user\Desktop\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\user\Desktop\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\user\Desktop\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\user\Desktop\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\user\Desktop\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\user\Desktop\3-1\신경공학\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\user\Desktop\3-1\신경공학\4by4\WindowsFormsApp7\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\3-1\신경공학\4by4\WindowsFormsApp7\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\3-1\신경공학\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\3-1\신경공학\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\user\Desktop\3-1\신경공학\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\user\Desktop\3-1\신경공학\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\user\Desktop\3-1\신경공학\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\3-1\신경공학\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\user\Desktop\3-1\신경공학\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\user\Desktop\3-1\신경공학\4by4\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\user\Desktop\3-1\신경공학\4by4\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\user\Desktop\3-1\신경공학\4by4\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\user\Desktop\3-1\신경공학\4by4\WindowsFormsApp7\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\3-1\신경공학\4by4\WindowsFormsApp7\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\2-1\4by4\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\user\Desktop\2-1\4by4\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\user\Desktop\2-1\4by4\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\user\Desktop\2-1\4by4\WindowsFormsApp7\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\2-1\4by4\WindowsFormsApp7\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\2-1\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\user\Desktop\2-1\4by4\WindowsFormsApp7\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\2-1\4by4\WindowsFormsApp7\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\2-1\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\2-1\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\user\Desktop\2-1\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\user\Desktop\2-1\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\user\Desktop\2-1\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2-1\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\user\Desktop\2-1\4by4\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\minse\Desktop\4by4 (2)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\minse\Desktop\4by4 (2)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\minse\Desktop\4by4 (2)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\minse\Desktop\4by4 (2)\WindowsFormsApp7\bin\Debug\Interop.WMPLib.dll
+C:\Users\minse\Desktop\4by4 (2)\WindowsFormsApp7\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\minse\Desktop\4by4 (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\minse\Desktop\4by4 (2)\WindowsFormsApp7\obj\Debug\Interop.WMPLib.dll
+C:\Users\minse\Desktop\4by4 (2)\WindowsFormsApp7\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\minse\Desktop\4by4 (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.ResolveComReference.cache
+C:\Users\minse\Desktop\4by4 (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\minse\Desktop\4by4 (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\minse\Desktop\4by4 (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\minse\Desktop\4by4 (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\minse\Desktop\4by4 (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\minse\Desktop\4by4 (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.ResolveComReference.cache
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\IronPython.dll
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\IronPython.Modules.dll
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\IronPython.SQLite.dll
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\IronPython.Wpf.dll
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.dll
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\IronPython.xml
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\IronPython.Modules.xml
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\IronPython.SQLite.xml
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\IronPython.Wpf.xml
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.xml
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\WebDriver.dll
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\WebDriver.xml
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\WebDriver.Support.dll
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\bin\Debug\WebDriver.Support.xml
+C:\Users\user\Documents\카카오톡 받은 파일\4by4 (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\IronPython.dll
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\IronPython.Modules.dll
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\IronPython.SQLite.dll
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\IronPython.Wpf.dll
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.dll
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\WebDriver.dll
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\WebDriver.Support.dll
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\IronPython.xml
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\IronPython.Modules.xml
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\IronPython.SQLite.xml
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\IronPython.Wpf.xml
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.xml
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\WebDriver.xml
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\WebDriver.Support.xml
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\Interop.WMPLib.dll
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\Interop.WMPLib.dll
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.ResolveComReference.cache
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\libtensorflow.dll
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\System.ValueTuple.dll
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\TensorFlowSharp.dll
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\System.ValueTuple.xml
+C:\Users\setter\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\TensorFlowSharp.xml
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\libtensorflow.dll
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\IronPython.dll
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\IronPython.Modules.dll
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\IronPython.SQLite.dll
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\IronPython.Wpf.dll
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.dll
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\System.ValueTuple.dll
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\TensorFlowSharp.dll
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\WebDriver.dll
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\WebDriver.Support.dll
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\IronPython.xml
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\IronPython.Modules.xml
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\IronPython.SQLite.xml
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\IronPython.Wpf.xml
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.xml
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\System.ValueTuple.xml
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\TensorFlowSharp.xml
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\WebDriver.xml
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\WebDriver.Support.xml
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\Interop.WMPLib.dll
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\Interop.WMPLib.dll
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.ResolveComReference.cache
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\park\Desktop\3by3_melon (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\libtensorflow.dll
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.dll
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Modules.dll
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.SQLite.dll
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Wpf.dll
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.dll
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\System.ValueTuple.dll
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\TensorFlowSharp.dll
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.dll
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.Support.dll
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.xml
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Modules.xml
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.SQLite.xml
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Wpf.xml
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.xml
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\System.ValueTuple.xml
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\TensorFlowSharp.xml
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.xml
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.Support.xml
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\Interop.WMPLib.dll
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\obj\Debug\Interop.WMPLib.dll
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.ResolveComReference.cache
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\park\Desktop\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\libtensorflow.dll
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.dll
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Modules.dll
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.SQLite.dll
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Wpf.dll
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.dll
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\System.ValueTuple.dll
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\TensorFlowSharp.dll
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.dll
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.Support.dll
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.xml
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Modules.xml
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.SQLite.xml
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Wpf.xml
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.xml
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\System.ValueTuple.xml
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\TensorFlowSharp.xml
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.xml
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.Support.xml
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Interop.WMPLib.dll
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\Interop.WMPLib.dll
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.ResolveComReference.cache
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\minse\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\libtensorflow.dll
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.dll
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Modules.dll
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.SQLite.dll
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Wpf.dll
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.dll
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\System.ValueTuple.dll
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\TensorFlowSharp.dll
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.dll
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.Support.dll
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.xml
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Modules.xml
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.SQLite.xml
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Wpf.xml
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.xml
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\System.ValueTuple.xml
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\TensorFlowSharp.xml
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.xml
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.Support.xml
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Interop.WMPLib.dll
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\Interop.WMPLib.dll
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.ResolveComReference.cache
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\setter\Desktop\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\libtensorflow.dll
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.dll
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Modules.dll
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.SQLite.dll
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Wpf.dll
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.dll
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.dll
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.dll
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\System.ValueTuple.dll
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\TensorFlowSharp.dll
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.dll
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.Support.dll
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.xml
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Modules.xml
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.SQLite.xml
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Wpf.xml
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.xml
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.xml
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.xml
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\System.ValueTuple.xml
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\TensorFlowSharp.xml
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.xml
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.Support.xml
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Interop.WMPLib.dll
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\AxInterop.WMPLib.dll
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\Interop.WMPLib.dll
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\AxInterop.WMPLib.dll
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.ResolveComReference.cache
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\libtensorflow.dll
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.dll
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Modules.dll
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.SQLite.dll
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Wpf.dll
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.dll
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\System.ValueTuple.dll
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\TensorFlowSharp.dll
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.dll
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.Support.dll
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.xml
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Modules.xml
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.SQLite.xml
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Wpf.xml
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.xml
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\System.ValueTuple.xml
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\TensorFlowSharp.xml
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.xml
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.Support.xml
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Interop.WMPLib.dll
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\Interop.WMPLib.dll
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.ResolveComReference.cache
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\setter\Documents\카카오톡 받은 파일\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\libtensorflow.dll
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.dll
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Modules.dll
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.SQLite.dll
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Wpf.dll
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.dll
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\TensorFlowSharp.dll
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.dll
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.Support.dll
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.xml
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Modules.xml
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.SQLite.xml
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Wpf.xml
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.xml
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\TensorFlowSharp.xml
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.xml
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.Support.xml
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\user\Desktop\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\libtensorflow.dll
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.dll
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Modules.dll
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.SQLite.dll
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Wpf.dll
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.dll
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\TensorFlowSharp.dll
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.dll
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.Support.dll
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.xml
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Modules.xml
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.SQLite.xml
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\IronPython.Wpf.xml
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.xml
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\TensorFlowSharp.xml
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.xml
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\WebDriver.Support.xml
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\user\Desktop\3-1\신경공학\최종 시스템_201710773박영제\3by3\3by3\3by3_melon\3by3_melon\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
